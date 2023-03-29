@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qyutl660bq4LNmeKXBUARYIgg/6w8Ono11OQBvpEPu0=",
+  "Source": "PresenceManagement.webApi",
+  "BasePath": "_content/PresenceManagement.webApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

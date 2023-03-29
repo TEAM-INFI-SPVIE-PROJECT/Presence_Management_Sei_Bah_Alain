@@ -1,0 +1,12 @@
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\bin\Debug\net7.0\PresenceManagement.DataAccess.deps.json
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\bin\Debug\net7.0\PresenceManagement.DataAccess.dll
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\bin\Debug\net7.0\PresenceManagement.DataAccess.pdb
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\PresenceManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\PresenceManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\PresenceManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\PresenceManagement.DataAccess.AssemblyInfo.cs
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\PresenceManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\PresenceManagement.DataAccess.dll
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\refint\PresenceManagement.DataAccess.dll
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\PresenceManagement.DataAccess.pdb
+C:\Users\INFI-STG5\Desktop\PresenceManagement_Back\PresenceManagement.DataAccess\obj\Debug\net7.0\ref\PresenceManagement.DataAccess.dll
